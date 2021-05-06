@@ -1,0 +1,11 @@
+C:\Users\ihort\source\repos\TEXTER\TEXTER\bin\Release\TEXTER.exe.config
+C:\Users\ihort\source\repos\TEXTER\TEXTER\bin\Release\TEXTER.exe
+C:\Users\ihort\source\repos\TEXTER\TEXTER\bin\Release\TEXTER.pdb
+C:\Users\ihort\source\repos\TEXTER\TEXTER\obj\Release\TEXTER.Form1.resources
+C:\Users\ihort\source\repos\TEXTER\TEXTER\obj\Release\TEXTER.Form2.resources
+C:\Users\ihort\source\repos\TEXTER\TEXTER\obj\Release\TEXTER.Properties.Resources.resources
+C:\Users\ihort\source\repos\TEXTER\TEXTER\obj\Release\TEXTER.csproj.GenerateResource.cache
+C:\Users\ihort\source\repos\TEXTER\TEXTER\obj\Release\TEXTER.csproj.CoreCompileInputs.cache
+C:\Users\ihort\source\repos\TEXTER\TEXTER\obj\Release\TEXTER.exe
+C:\Users\ihort\source\repos\TEXTER\TEXTER\obj\Release\TEXTER.pdb
+C:\Users\ihort\source\repos\TEXTER\TEXTER\obj\Release\TEXTER.csprojAssemblyReference.cache
